@@ -1,4 +1,4 @@
-FROM node:10.18
+FROM node:10.19
 
 # install open jdk
 RUN apt-get update && \
