@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 set -e
 
-docker build -t soundon/firestore-ci .
-docker push soundon/firestore-ci
+docker build -t soundondev/podcast-ci .
+docker push soundondev/podcast-ci
